@@ -1,0 +1,5 @@
+body {}
+
+.cardsection .card:hover {
+    background-color: aquamarine;
+}
